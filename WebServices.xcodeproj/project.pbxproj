@@ -18,6 +18,7 @@
 		C80DEC05295E1EAF007E487D /* WebServicesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C80DEC04295E1EAF007E487D /* WebServicesUITestsLaunchTests.swift */; };
 		C80DEC12295E2135007E487D /* FlickerAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = C80DEC11295E2135007E487D /* FlickerAPI.swift */; };
 		C80DEC14295E25F6007E487D /* PhotoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C80DEC13295E25F6007E487D /* PhotoStore.swift */; };
+		C80DEC16295E2F63007E487D /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C80DEC15295E2F63007E487D /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C80DEC04295E1EAF007E487D /* WebServicesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebServicesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C80DEC11295E2135007E487D /* FlickerAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickerAPI.swift; sourceTree = "<group>"; };
 		C80DEC13295E25F6007E487D /* PhotoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoStore.swift; sourceTree = "<group>"; };
+		C80DEC15295E2F63007E487D /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C80DEBE1295E1EAE007E487D /* AppDelegate.swift */,
 				C80DEBE3295E1EAE007E487D /* SceneDelegate.swift */,
 				C80DEBE5295E1EAE007E487D /* PhotosViewController.swift */,
+				C80DEC15295E2F63007E487D /* Photo.swift */,
 				C80DEC11295E2135007E487D /* FlickerAPI.swift */,
 				C80DEC13295E25F6007E487D /* PhotoStore.swift */,
 				C80DEBE7295E1EAE007E487D /* Main.storyboard */,
@@ -264,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C80DEC16295E2F63007E487D /* Photo.swift in Sources */,
 				C80DEC14295E25F6007E487D /* PhotoStore.swift in Sources */,
 				C80DEBE6295E1EAE007E487D /* PhotosViewController.swift in Sources */,
 				C80DEC12295E2135007E487D /* FlickerAPI.swift in Sources */,
